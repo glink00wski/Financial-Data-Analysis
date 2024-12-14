@@ -30,16 +30,16 @@ This project analyzes a financial dataset spanning three years (2020-2022), focu
 
 ## Visualizations
 1. **Total Revenue by Year and Region**:
-   ![Revenue by Region](images/revenue_by_year_region.png)
+   ![Revenue by Region](images/Total_rev_by_year_and_region.png)
 
 2. **Revenue Distribution by Product**:
-   ![Revenue by Product](images/revenue_by_product.png)
+   ![Revenue by Product](images/Rev_distr_by_product.png)
 
 3. **Profit Margin Trends Over Time**:
-   ![Profit Margin Trends](images/profit_margin_trends.png)
+   ![Profit Margin Trends](images/Profit_margin_trends_over_time.png)
 
 4. **Total Profit by Region**:
-   ![Profit by Region](images/profit_by_region.png)
+   ![Profit by Region](images/total_profit_by_region.png)
 
 ## Next Steps
 - Extend the dataset to include more granular details, such as customer demographics or marketing campaigns.
