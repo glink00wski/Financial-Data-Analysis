@@ -47,7 +47,7 @@ This project analyzes a financial dataset spanning three years (2020-2022), focu
 
 ## How to Use
 - The dataset (`financial_dashboard_data_extended.csv`) is included in the `data/` folder.
-- Jupyter Notebook with the analysis code is available in the `notebooks/` folder.
+- Analysis code is available in the `notebooks/` folder.
 
 ## Dataset
 The dataset includes:
@@ -61,11 +61,10 @@ The dataset includes:
 
 ## Tools and Libraries
 - **Python**: Pandas, Matplotlib, Seaborn, Scipy.
-- **Tableau**: For interactive dashboards.
 
 ## Repository Structure
 - `data/`: Contains the dataset used in this analysis.
-- `notebooks/`: Jupyter notebooks with the analysis code.
+- `notebooks/`: Analysis code.
 - `images/`: Visualizations generated from the analysis.
 
 ---
